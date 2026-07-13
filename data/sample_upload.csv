@@ -1,0 +1,21 @@
+Transaction ID,Customer ID,Transaction Date,Transaction Time,Transaction Amount,Transaction Type,Payment Method,Merchant Category,Sender Location,Receiver Location,Account Age (Days),Customer Age,Transactions in Last 24 Hours,Average Customer Transaction Amount,Failed Transaction Attempts,Device Type,Device ID,IP Address,Is New Device,Is Unusual Location,Is International,Transaction Status
+TXN201140,CUST10326,2024-02-28,13:55:51,1489.97,Mobile-wallet payment,Card,Dining,Chennai,Jaipur,3152,62,1,1890.43,0,Mobile,DEV450216,115.209.114.238,1,0,0,Success
+TXN200169,CUST10625,2024-04-10,06:29:48,628.63,Online purchase,ATM,Electronics,Kolkata,Dubai,2434,31,2,1148.86,0,Tablet,DEV180674,165.28.234.114,0,0,0,Success
+TXN202088,CUST10349,2024-06-22,03:55:31,1390.9,Bank transfer,Digital Wallet,Groceries,Bangalore,Singapore,937,39,3,1998.81,0,Desktop,DEV180089,157.9.118.112,0,0,0,Success
+TXN202432,CUST10027,2024-06-01,14:57:14,974.88,Debit-card payment,Card,Health,Bangalore,Hyderabad,3557,21,1,993.42,0,Desktop,DEV930555,59.103.194.92,0,0,0,Success
+TXN203712,CUST10081,2024-03-11,03:57:37,1812.81,Credit-card payment,Net Banking,Dining,Chennai,Ahmedabad,2507,36,5,1447.83,0,Mobile,DEV313487,8.204.97.172,0,0,0,Success
+TXN202251,CUST10262,2024-04-14,01:32:50,13407.56,ATM withdrawal,Digital Wallet,Services,Mumbai,Ahmedabad,2839,73,5,4002.4,5,Tablet,DEV912038,216.61.70.109,1,0,0,Success
+TXN203474,CUST10917,2024-06-04,17:56:45,140179.36,Bank transfer,Net Banking,Groceries,Lucknow,Kolkata,1132,31,1,3432.14,0,Desktop,DEV222199,51.86.52.206,1,1,0,Success
+TXN204430,CUST10328,2024-06-25,13:01:23,273.82,Credit-card payment,Card,Groceries,Mumbai,Chennai,315,43,1,1138.44,0,Tablet,DEV196214,133.227.86.154,0,0,0,Success
+TXN200088,CUST10658,2024-04-09,23:57:15,2676.84,Debit-card payment,UPI,Entertainment,Hyderabad,Lucknow,1825,31,2,4089.58,0,Mobile,DEV958747,239.236.54.168,0,1,0,Success
+TXN203879,CUST10446,2024-06-21,08:59:13,2512.57,Credit-card payment,Digital Wallet,Health,Ahmedabad,Delhi,2282,22,6,2939.77,0,Tablet,DEV992717,55.61.31.113,0,0,0,Success
+TXN204519,CUST10691,2024-04-11,00:24:16,645.43,ATM withdrawal,ATM,Fashion,Bangalore,Chennai,509,37,9,1323.7,0,Desktop,DEV635638,250.128.85.61,0,0,0,Success
+TXN203304,CUST10447,2024-01-12,18:02:13,8909.39,ATM withdrawal,Net Banking,Travel,Bangalore,Ahmedabad,2945,28,6,3693.04,0,Tablet,DEV932250,235.224.201.33,0,0,0,Success
+TXN204119,CUST10841,2024-03-25,06:46:11,2062.48,Online purchase,Digital Wallet,Entertainment,Kolkata,Singapore,2915,41,1,4738.65,0,Desktop,DEV714483,137.208.103.182,0,0,0,Success
+TXN203178,CUST10445,2024-01-28,04:58:26,10778.26,Mobile-wallet payment,Digital Wallet,Dining,Chennai,Ahmedabad,3493,61,7,4939.59,0,Desktop,DEV844007,97.67.119.143,0,0,0,Success
+TXN202864,CUST10719,2024-05-20,19:47:48,4610.81,Mobile-wallet payment,ATM,Services,Kolkata,Singapore,1130,58,8,3325.16,0,Desktop,DEV573947,3.176.148.97,0,0,0,Success
+TXN203977,CUST10314,2024-05-29,08:56:40,14812.18,Online purchase,UPI,Groceries,Delhi,Delhi,2843,27,6,4653.43,0,Mobile,DEV195656,36.10.47.246,0,0,0,Success
+TXN204451,CUST10954,2024-01-13,06:45:01,348.28,Credit-card payment,ATM,Fashion,Pune,Ahmedabad,2801,19,5,518.56,0,Mobile,DEV337256,77.188.77.15,0,1,0,Success
+TXN203577,CUST10345,2024-05-08,23:55:56,356.38,Bank transfer,UPI,Entertainment,Chennai,Hyderabad,1689,25,9,593.85,0,Mobile,DEV280222,156.147.188.119,0,0,0,Success
+TXN202458,CUST10237,2024-03-03,05:43:02,1038.66,Credit-card payment,ATM,Groceries,Pune,New York,1712,67,7,696.41,0,Mobile,DEV839485,119.63.35.79,0,0,0,Success
+TXN202509,CUST10254,2024-04-23,01:08:33,536.31,UPI transfer,Card,Electronics,Ahmedabad,New York,616,55,8,1544.85,0,Desktop,DEV581894,229.244.73.51,0,0,0,Success
