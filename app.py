@@ -72,7 +72,10 @@ model, preprocessor = load_ml_models()
 rules_engine = FraudRulesEngine()
 
 # Sidebar navigation
-st.sidebar.title("🛡️ Fraud Guard AI")
+if os.path.exists('assets/logo.png'):
+    st.sidebar.image('assets/logo.png', use_container_width=True)
+else:
+    st.sidebar.title("🛡️ Fraud Guard AI")
 st.sidebar.markdown("---")
 page = st.sidebar.radio(
     "Navigation",

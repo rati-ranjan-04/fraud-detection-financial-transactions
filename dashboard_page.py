@@ -2,7 +2,12 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+import os
+
 def show(df):
+    if os.path.exists('assets/dashboard_banner.png'):
+        st.image('assets/dashboard_banner.png', use_container_width=True)
+    
     st.title("📊 Dashboard")
     st.subheader("AI-Powered Financial Security and Transaction Risk Analysis System")
     
