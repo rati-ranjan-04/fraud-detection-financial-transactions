@@ -49,7 +49,7 @@ st.markdown("""
         border-top: 1px solid #ddd;
     }
 </style>
-""", unsafe_allow_state_warnings=True, unsafe_allow_html=True)
+""", unsafe_allow_html=True)
 
 # Load data and models
 @st.cache_data
